@@ -1,4 +1,4 @@
-A Spring Boot example web application to explore its basic functionalities.
+A Spring Boot example REST server application to explore its basic functionalities.
 Using spring-boot-starter-web, spring-boot-starter-data-jpa, and mysql-connector-java.
 
 
